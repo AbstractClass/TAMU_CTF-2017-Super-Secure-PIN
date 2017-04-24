@@ -3,6 +3,8 @@ Writeups for challenges I solved in the TAMU 2017 CTF
 
 I am on my laptop right now, I will sperate the chalanges later
 
+# Super Secure Pin - 100 points
+
 ## Preliminary Research
 The link in question is http://pin.ctf.tamu.edu/ and there is not much too it.  After clicking a link called 'login' you get to http://pin.ctf.tamu.edu/login, this is where the fun is to be had.
 

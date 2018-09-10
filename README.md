@@ -1,8 +1,4 @@
 # TAMU_CTF-2017-Writeups
-Writeups for challenges I solved in the TAMU 2017 CTF
-
-I am on my laptop right now, I will sperate the chalanges later
-
 # Super Secure Pin - 100 points
 
 ## Preliminary Research
